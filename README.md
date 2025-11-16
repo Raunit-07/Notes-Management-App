@@ -1,12 +1,17 @@
-# Notes-Management-App
-A simple and responsive Notes Management App built with React and Vite. Create, edit, delete, and organize notes by category with localStorage support and a clean UI. Ideal for quick note-taking and lightweight productivity.
+Notes App 
+
+A clean and responsive notes app where you can create, edit, delete, and organize notes by categories. Your notes are saved in your browser using localStorage.
 
 🚀 Features
 
 1)Create, edit, and delete notes
+
 2) Filter notes by category
+
 3) Duplicate title protection
+
 4) Loads starter notes from notes.json on first run
+
 5) Fully responsive UI (mobile + desktop)
 
 ▶️ Getting Started
